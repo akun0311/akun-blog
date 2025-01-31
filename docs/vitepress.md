@@ -16,8 +16,7 @@ https://notes.zhengxinonly.com/
 vitepress和obsidian联动的时候，首先要使用obsidian，然后是使用自动生成侧边栏
 目前我的自动生成侧边栏是AI帮我写的，具体情况我并不懂
 
-在这个时候，我们就可以切换到了obsidian写文档了，不过我们还需要注意一下
+在这个时候，我们就可以切换到了obsidian写文档了，我们的写作环境就切换到obsidian里面了，所以我们就不能快速的看到网站的更新效果了。
 
-::: tip fafj
- 14
-:::
+不过这个时候我们可以借助obsidian的git插件，来自动推送项目。
+所以就可以自动推动到github上，然后由github来更新网页。

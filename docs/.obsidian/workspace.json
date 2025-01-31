@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "q.md",
+                "file": "网站收集.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "q"
+              "title": "网站收集"
             }
           }
         ]
@@ -171,9 +171,15 @@
   },
   "active": "9e73b0bceddf26de",
   "lastOpenFiles": [
-    "计算机/经验杂谈/github代码上传.md",
     "vitepress.md",
+    "计算机/工具/vitepress.md",
+    "TODO待办列表.md",
+    "网站收集.md",
+    "芯片和处理器/riscv处理器/verilog处理器代码.md",
+    "芯片和处理器/riscv处理器/仿真器emulator.md",
+    "芯片和处理器/riscv处理器/模拟器simulator.md",
     "q.md",
+    "计算机/经验杂谈/github代码上传.md",
     "编程语言/veriog.md",
     "编程语言/c.md",
     "编程语言",
@@ -181,15 +187,12 @@
     "aaa/c.md",
     "aaa",
     "计算机/computer.md",
-    "待办列表.md",
-    "未命名.md",
     "计算机/经验杂谈/install-ubuntu.md",
     "计算机/经验分享/写代码和debug.md",
     "AI与信息获取",
     "计算机/经验分享/如何写代码和debug/write_code.md",
     "计算机/工具/verilator.md",
     "计算机/工具/vmware.md",
-    "计算机/工具/vitepress.md",
     "计算机/工具/use-vscode.md",
     "Untitled.canvas",
     "team.md",
@@ -206,9 +209,6 @@
     "计算机/工具",
     "芯片和处理器/riscv处理器/modelsim.md",
     "芯片和处理器",
-    "未命名.canvas",
-    "2025-01-31.md",
-    "docs/computer-knowledge.md",
-    "docs/2025-01-31.md"
+    "未命名.canvas"
   ]
 }

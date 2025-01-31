@@ -4,7 +4,7 @@ title: ubuntu系统安装
 editLink: true
 footer: true
 lastUpdated: true
-outline: [1, 4]
+outline: [2, 4]
 ---
 # {{ $frontmatter.title }}
 
