@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-
+import { set_sidebar } from './gen_sidebar'
 
 
 // https://vitepress.dev/reference/site-config
@@ -39,16 +39,9 @@ export default defineConfig({
     },
       
     //侧边栏    
-    sidebar: [
-      {
-        text: '文档',
-        items: [
-          { text: '安装ubuntu系统',           link: '/install-ubuntu' },
-          { text: 'y86相关',                 link: '/computer/cpu/instruction-set/y86' },
-          { text: 'modelsim',               link: '/computer/cpu/modelsim' }
-        ]
-      }
-    ],
+    sidebar: {
+      '/': set_sidebar(),
+    },
   
     socialLinks: [
       { icon: 'github', link: 'https://github.com/akun0311/akun-blog' },

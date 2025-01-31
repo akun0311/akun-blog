@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cfa954b82e813171",
+            "id": "9e73b0bceddf26de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/经验杂谈/github代码上传.md",
+                "file": "q.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "github代码上传"
-            }
-          },
-          {
-            "id": "101c04e41e7f7dca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "待办列表.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "待办列表"
+              "title": "q"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,10 +169,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "101c04e41e7f7dca",
+  "active": "9e73b0bceddf26de",
   "lastOpenFiles": [
-    "未命名.md",
     "计算机/经验杂谈/github代码上传.md",
+    "vitepress.md",
+    "q.md",
+    "编程语言/veriog.md",
+    "编程语言/c.md",
+    "编程语言",
+    "aaa/veriog.md",
+    "aaa/c.md",
+    "aaa",
+    "计算机/computer.md",
+    "待办列表.md",
+    "未命名.md",
     "计算机/经验杂谈/install-ubuntu.md",
     "计算机/经验分享/写代码和debug.md",
     "AI与信息获取",
@@ -196,7 +191,6 @@
     "计算机/工具/vmware.md",
     "计算机/工具/vitepress.md",
     "计算机/工具/use-vscode.md",
-    "待办列表.md",
     "Untitled.canvas",
     "team.md",
     "index.md",
@@ -204,7 +198,6 @@
     "图片汇总",
     "计算机/工具/git.md",
     "计算机/工具/git.md",
-    "计算机/computer.md",
     "计算机/未命名.md",
     "计算机/未命名",
     "计算机/经验杂谈",
@@ -213,13 +206,9 @@
     "计算机/工具",
     "芯片和处理器/riscv处理器/modelsim.md",
     "芯片和处理器",
-    "芯片和处理器/其他架构处理器",
     "未命名.canvas",
     "2025-01-31.md",
     "docs/computer-knowledge.md",
-    "docs/2025-01-31.md",
-    "docs/riscv-isa-doc/rv64/rv64i.md",
-    "obsidian-vitepress/Welcome.md",
-    "Welcome.md"
+    "docs/2025-01-31.md"
   ]
 }

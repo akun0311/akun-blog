@@ -6,8 +6,8 @@ hero:
   name: "akun"
   actions:
     - theme: brand
-      text: computer
-      link: computer
+      text: 文档汇总
+      link: /计算机/computer
 
 
 features:
