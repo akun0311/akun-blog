@@ -1,17 +1,21 @@
 ---
+layout: doc
 title: ubuntu系统安装
 editLink: true
-layout: doc
+footer: true
+lastUpdated: true
+outline: [1, 4]
 ---
-
 # {{ $frontmatter.title }}
 
 
+<br>
 
-## 1. ubuntu双系统
-
+# 1. ubuntu双系统
+# 2
 [点击此处查看安装教程](https://www.bilibili.com/video/BV1CG4y1h7bx/?spm_id_from=333.1387.search.video_card.click&vd_source=86c038e54178b2c8db06f72a2c1b15da)
 
+111faffa
 
 初始使用ubuntu系统时，会遇到输入法，系统字体渲染等问题，以下是一些参考资料，更多资料正在补充中。
 

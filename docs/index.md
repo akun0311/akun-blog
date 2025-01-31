@@ -3,40 +3,17 @@
 layout: home
 
 hero:
-  name: "计算机知识分享"
+  name: "akun"
   actions:
     - theme: brand
-      text: single-cycle-cpu项目使用指南
-      link: /single-cycle-cpu
-    - theme: brand
-      text: pipeline-cpu项目使用指南
-      link: /pipeline-cpu
-    - theme: brand
-      text: ubuntu系统安装
-      link: /install-ubuntu
-    - theme: brand
-      text: vscode相关
-      link: /use-vscode
-    - theme: brand
-      text: y86相关
-      link: /computer/cpu/instruction-set/y86
-    - theme: brand
-      text: modelsim
-      link: /computer/cpu/modelsim
-    - theme: brand
-      text: todolist
-      link: /todo-list
-    - theme: brand
-      text: rv64i
-      link: /riscv-isa-doc/rv64/rv64i
-    - theme: brand
-      text: rv64m
-      link: /riscv-isa-doc/rv64/rv64m
+      text: computer
+      link: computer
 
 
 features:
    - title: 更多功能正在支持中
      details: 敬请期待
+  
   
 ---
 
