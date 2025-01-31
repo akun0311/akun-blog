@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网站收集.md",
+                "file": "信息/cpu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "网站收集"
+              "title": "cpu"
             }
           }
         ]
@@ -169,12 +169,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e73b0bceddf26de",
+  "active": "0e2b610bb00f52cd",
   "lastOpenFiles": [
+    "信息/未命名",
+    "网站收集.md",
+    "信息/cpu.md",
+    "信息",
     "vitepress.md",
     "计算机/工具/vitepress.md",
     "TODO待办列表.md",
-    "网站收集.md",
     "芯片和处理器/riscv处理器/verilog处理器代码.md",
     "芯片和处理器/riscv处理器/仿真器emulator.md",
     "芯片和处理器/riscv处理器/模拟器simulator.md",
@@ -201,14 +204,11 @@
     "图片汇总",
     "计算机/工具/git.md",
     "计算机/工具/git.md",
-    "计算机/未命名.md",
     "计算机/未命名",
     "计算机/经验杂谈",
     "计算机/经验杂谈/github相关",
     "计算机/经验分享",
     "计算机/工具",
-    "芯片和处理器/riscv处理器/modelsim.md",
-    "芯片和处理器",
     "未命名.canvas"
   ]
 }
