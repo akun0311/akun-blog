@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "71a5c80f36f69745",
+        "id": "845a77a1f9f36d10",
         "type": "tabs",
         "children": [
           {
-            "id": "9e73b0bceddf26de",
+            "id": "e16fbc6a8e07ffdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO待办列表.md",
+                "file": "项目说明.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO待办列表"
-            }
-          },
-          {
-            "id": "1bbb7aec68c5e873",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "riscv处理器/modelsim.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "modelsim"
-            }
-          },
-          {
-            "id": "3c21e87b66d8522f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "riscv处理器/处理器项目.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "处理器项目"
-            }
-          },
-          {
-            "id": "9a341591006e5b92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "riscv处理器/处理器项目.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "处理器项目"
+              "title": "项目说明"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e104ac87096aac0f",
@@ -208,22 +166,25 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "0e2b610bb00f52cd",
+  "active": "e16fbc6a8e07ffdb",
   "lastOpenFiles": [
-    "图片汇总/Pasted image 20250131175250.png",
-    "index.md",
-    "linux-cpu.md",
     "TODO待办列表.md",
+    "项目说明.md",
+    "linux-cpu.md",
+    "index.md",
+    "进度设置.md",
+    "进度条设置.md",
+    "工具/小工具系列.md",
+    "riscv处理器/处理器项目.md",
+    "riscv处理器/modelsim.md",
+    "图片汇总/Pasted image 20250131175250.png",
     "vitepress.md",
     "高校课程.md",
-    "riscv处理器/处理器项目.md",
     "riscv处理器/linxu安装modelsim.md",
     "网站收集.md",
-    "riscv处理器/modelsim.md",
     "编程语言/veriog.md",
     "riscv处理器/仿真器emulator.md",
     "riscv处理器/模拟器simulator.md",
@@ -241,10 +202,7 @@
     "aaa/c.md",
     "aaa",
     "计算机/computer.md",
-    "计算机/经验杂谈/install-ubuntu.md",
-    "计算机/经验分享/写代码和debug.md",
     "AI与信息获取",
-    "计算机/经验分享/如何写代码和debug/write_code.md",
     "Untitled.canvas",
     "图片汇总/logo.svg",
     "图片汇总",
