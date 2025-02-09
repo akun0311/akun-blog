@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "riscv处理器/模拟器simulator.md",
+                "file": "riscv处理器/linxu安装modelsim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "模拟器simulator"
+              "title": "linxu安装modelsim"
             }
           }
         ]
@@ -179,8 +179,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0e2b610bb00f52cd",
+  "active": "53ec4a5bf0be0f27",
   "lastOpenFiles": [
+    "riscv处理器/模拟器simulator.md",
     "riscv处理器/linxu安装modelsim.md",
     "riscv处理器/modelsim.md",
     "riscv处理器/仿真器emulator.md",
@@ -206,7 +207,6 @@
     "linux-cpu.md",
     "difftest.md",
     "2025-02-09.md",
-    "riscv处理器/模拟器simulator.md",
     "图片汇总/Pasted image 20250131175250.png",
     "信息/未命名",
     "信息获取",
