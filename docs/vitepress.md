@@ -11,6 +11,7 @@ https://www.bilibili.com/video/BV1xg4y1R74a/?spm_id_from=333.337.search-card.all
 
 https://notes.zhengxinonly.com/
 
+https://docs.yuzaicn.com/blog/obsidian-vitepress
 ## vitepress和obsidian联动
 
 vitepress和obsidian联动的时候，首先要使用obsidian，然后是使用自动生成侧边栏

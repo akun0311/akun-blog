@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目说明.md",
+                "file": "linux-cpu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "项目说明"
+              "title": "linux-cpu"
+            }
+          },
+          {
+            "id": "165bfb7d4489f0e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "difftest写处理器.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "difftest写处理器"
+            }
+          },
+          {
+            "id": "8ba97fc302236591",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "ea5960e10e35d84e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vitepress.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vitepress"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e104ac87096aac0f",
@@ -161,6 +203,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -169,25 +212,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e16fbc6a8e07ffdb",
+  "active": "ea5960e10e35d84e",
   "lastOpenFiles": [
-    "TODO待办列表.md",
-    "项目说明.md",
+    "difftest写处理器.md",
+    "difftest.md",
+    "vitepress.md",
+    "2025-02-09.md",
+    "未命名.md",
     "linux-cpu.md",
+    "riscv处理器/处理器项目.md",
+    "riscv处理器/模拟器simulator.md",
+    "项目说明.md",
+    "TODO待办列表.md",
     "index.md",
     "进度设置.md",
     "进度条设置.md",
     "工具/小工具系列.md",
-    "riscv处理器/处理器项目.md",
     "riscv处理器/modelsim.md",
     "图片汇总/Pasted image 20250131175250.png",
-    "vitepress.md",
     "高校课程.md",
     "riscv处理器/linxu安装modelsim.md",
     "网站收集.md",
     "编程语言/veriog.md",
     "riscv处理器/仿真器emulator.md",
-    "riscv处理器/模拟器simulator.md",
     "信息获取/信息获取来源.md",
     "信息获取/cpu天梯图.md",
     "信息获取/如何高效获取信息.md",
@@ -196,12 +243,8 @@
     "计算机/工具/vitepress.md",
     "q.md",
     "计算机/经验杂谈/github代码上传.md",
-    "编程语言/c.md",
     "编程语言",
-    "aaa/veriog.md",
-    "aaa/c.md",
     "aaa",
-    "计算机/computer.md",
     "AI与信息获取",
     "Untitled.canvas",
     "图片汇总/logo.svg",
