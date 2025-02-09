@@ -4,67 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "845a77a1f9f36d10",
+        "id": "f5c4a9f550b1fa39",
         "type": "tabs",
         "children": [
           {
-            "id": "e16fbc6a8e07ffdb",
+            "id": "53ec4a5bf0be0f27",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux-cpu.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "linux-cpu"
-            }
-          },
-          {
-            "id": "165bfb7d4489f0e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "difftest写处理器.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "difftest写处理器"
-            }
-          },
-          {
-            "id": "8ba97fc302236591",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名"
-            }
-          },
-          {
-            "id": "ea5960e10e35d84e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vitepress.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "vitepress"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,13 +146,23 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "26fbcaf051ac79ef",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 776.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,13 +175,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ea5960e10e35d84e",
+  "active": "26fbcaf051ac79ef",
   "lastOpenFiles": [
+    "vitepress.md",
+    "未命名.md",
     "difftest写处理器.md",
     "difftest.md",
-    "vitepress.md",
     "2025-02-09.md",
-    "未命名.md",
     "linux-cpu.md",
     "riscv处理器/处理器项目.md",
     "riscv处理器/模拟器simulator.md",
