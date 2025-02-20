@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "riscv指令"
             }
+          },
+          {
+            "id": "183c562273f7fee2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
         ]
       }
