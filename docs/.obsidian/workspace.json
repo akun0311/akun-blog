@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "25d59c77ef80a722",
+        "id": "cd777e5ff25edeea",
         "type": "tabs",
         "children": [
           {
-            "id": "26aa24e7aaf74257",
+            "id": "cdaf2a2e9e22c160",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "高校课程.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "高校课程"
-            }
-          },
-          {
-            "id": "df86951d90ebc07b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250219210322.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250219210322"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,19 +176,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "df86951d90ebc07b",
+  "active": "cdaf2a2e9e22c160",
   "lastOpenFiles": [
-    "riscv指令.md",
-    "TODO待办列表.md",
+    "linux-cpu.md",
+    "Pasted image 20250219210322.png",
+    "明天要说的事情.md",
+    "自己在学习时存在的问题.md",
+    "网站收集.md",
+    "进度设置.md",
+    "项目说明.md",
+    "高校课程.md",
+    "index.md",
     "vitepress.md",
     "写代码.md",
     "时代会淘汰很多人.md",
-    "网站收集.md",
-    "自己在学习时存在的问题.md",
-    "高校课程.md",
-    "项目说明.md",
-    "进度设置.md",
-    "Pasted image 20250219210322.png",
+    "TODO待办列表.md",
+    "riscv指令.md",
     "AI与信息获取/11.md",
     "difftest写处理器.md",
     "写cache.md",
@@ -218,10 +204,6 @@
     "riscv处理器/仿真器emulator.md",
     "riscv处理器/处理器项目.md",
     "工具/verilator.md",
-    "工具/vmware.md",
-    "工具/use-vscode.md",
-    "芯片和处理器/riscv指令集文档/rv64/rv64m.md",
-    "芯片和处理器/riscv指令集文档/rv64/rv64i.md",
     "图片汇总/Pasted image 20250131175250.png",
     "信息/未命名",
     "AI与信息获取/信息获取",
