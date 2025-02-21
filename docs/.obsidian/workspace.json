@@ -25,14 +25,12 @@
             "id": "df86951d90ebc07b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "自己在学习时存在的问题.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250219210322.png"
               },
-              "icon": "lucide-file",
-              "title": "自己在学习时存在的问题"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250219210322"
             }
           }
         ],
@@ -93,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e104ac87096aac0f",
@@ -198,19 +195,19 @@
   },
   "active": "df86951d90ebc07b",
   "lastOpenFiles": [
-    "高校课程.md",
-    "自己在学习时存在的问题.md",
-    "时代会淘汰很多人.md",
-    "Pasted image 20250219210322.png",
     "riscv指令.md",
-    "AI与信息获取/11.md",
-    "difftest写处理器.md",
-    "项目说明.md",
-    "进度设置.md",
-    "网站收集.md",
     "TODO待办列表.md",
     "vitepress.md",
     "写代码.md",
+    "时代会淘汰很多人.md",
+    "网站收集.md",
+    "自己在学习时存在的问题.md",
+    "高校课程.md",
+    "项目说明.md",
+    "进度设置.md",
+    "Pasted image 20250219210322.png",
+    "AI与信息获取/11.md",
+    "difftest写处理器.md",
     "写cache.md",
     "计算机/经验分享/写代码和debug.md",
     "AI与信息获取/如何高效获取信息.md",
