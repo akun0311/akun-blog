@@ -11,12 +11,14 @@
             "id": "cdaf2a2e9e22c160",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250219210322.png"
+                "file": "difftest写处理器.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250219210322"
+              "icon": "lucide-file",
+              "title": "difftest写处理器"
             }
           }
         ]
@@ -180,9 +182,9 @@
   },
   "active": "cdaf2a2e9e22c160",
   "lastOpenFiles": [
+    "Pasted image 20250219210322.png",
     "我上周做了啥.md",
     "linux-cpu.md",
-    "Pasted image 20250219210322.png",
     "明天要说的事情.md",
     "自己在学习时存在的问题.md",
     "网站收集.md",
@@ -206,7 +208,6 @@
     "riscv处理器/modelsim.md",
     "riscv处理器/仿真器emulator.md",
     "riscv处理器/处理器项目.md",
-    "工具/verilator.md",
     "图片汇总/Pasted image 20250131175250.png",
     "信息/未命名",
     "AI与信息获取/信息获取",
