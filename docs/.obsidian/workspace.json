@@ -11,10 +11,14 @@
             "id": "cdaf2a2e9e22c160",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "我上周做了啥.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "我上周做了啥"
             }
           }
         ]
@@ -178,6 +182,7 @@
   },
   "active": "cdaf2a2e9e22c160",
   "lastOpenFiles": [
+    "我上周做了啥.md",
     "linux-cpu.md",
     "Pasted image 20250219210322.png",
     "明天要说的事情.md",
