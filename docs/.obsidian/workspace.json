@@ -11,14 +11,12 @@
             "id": "cdaf2a2e9e22c160",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "我上周做了啥.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250219210322.png"
               },
-              "icon": "lucide-file",
-              "title": "我上周做了啥"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250219210322"
             }
           }
         ]
