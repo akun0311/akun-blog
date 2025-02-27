@@ -3,7 +3,8 @@
 layout: home
 
 hero:
-  name: "akun"
+  name: "阿坤的笔记本-计算机"
+  image: "akun.jpg"
   actions:
     - theme: brand
       text: 文档汇总

@@ -38,19 +38,20 @@ function generateSidebar(dirPath, relativePath = '') {
                 sidebarItems.push({
                     text: nameWithoutExt, // 如果需要，这里可以直接是中文
                     link: encodedLink.replace(/%2F/g, '/'), // 将URL编码中的'/'还原
+                    collapsed: true, // .md 文件默认折叠
                 });
             }
         } else {
             // 如果是目录，则递归处理
             const subdirRelativePath = `${relativePath}/${file}`;
             const subdirItems = generateSidebar(fullPath, subdirRelativePath);
-            if (subdirItems.length > 0) { // 只有当子目录中有内容时才添加
-                sidebarItems.push({
-                    text: file, // 目录名称可以是中文
-                    collapsible: true,
-                    items: subdirItems,
-                });
-            }
+            // 无论子目录是否有内容，都将其作为一个栏目
+            sidebarItems.push({
+                text: file, // 目录名称可以是中文
+                collapsible: true, // 使目录可折叠
+                collapsed: true, // 所有目录默认折叠
+                items: subdirItems, // 子目录内容
+            });
         }
     }
 
