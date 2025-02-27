@@ -4,7 +4,7 @@ import fs from 'node:fs';
 // 文件根目录
 const DIR_PATH = path.resolve();
 // 白名单, 过滤不是文章的文件和文件夹
-const WHITE_LIST = new Set(['index.md', '.vitepress', '.obsidian', 'node_modules', 'assets']);
+const WHITE_LIST = new Set(['index.md', '.vitepress', '.obsidian', 'node_modules', 'assets', '个人成长', '图片汇总']);
 
 /**
  * 判断是否是文件夹

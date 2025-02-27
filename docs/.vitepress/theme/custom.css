@@ -1,0 +1,16 @@
+/* Custom CSS for top-level sidebar sections */
+.VPSidebarGroup .VPSidebarItem.level-0 {
+    border-bottom: 2px solid #e2e8f0; /* Light gray border */
+    padding-bottom: 12px;
+    margin-bottom: 12px;
+}
+
+.VPSidebarGroup .VPSidebarItem.level-0:last-child {
+    border-bottom: none; /* Remove border for the last item */
+}
+
+/* Add a subtle hover effect */
+.VPSidebarGroup .VPSidebarItem.level-0:hover {
+    background-color: #f7fafc; /* Light background on hover */
+    border-radius: 4px;
+}
