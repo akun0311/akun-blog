@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "计算机/处理器和芯片/riscv处理器/linxu安装modelsim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "linxu安装modelsim"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "linux",
+                "query": "modelsim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,11 +131,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 206.50043487548828
+    "width": 206.50043487548828,
+    "collapsed": true
   },
   "right": {
     "id": "e104ac87096aac0f",
@@ -239,13 +241,13 @@
   },
   "active": "4262b1c2af337778",
   "lastOpenFiles": [
+    "index.md",
     "计算机/处理器和芯片/模拟器/qemu.md",
     "计算机/处理器和芯片/模拟器/spike.md",
     "计算机/处理器和芯片/模拟器/nemu.md",
     "计算机/处理器和芯片/模拟器/spike",
     "计算机/处理器和芯片/模拟器",
     "408/考研只需要把考的内容学透.md",
-    "index.md",
     "我上周做了啥.md",
     "计算机/VSCode",
     "计算机/网页",
